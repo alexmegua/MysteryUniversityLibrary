@@ -338,6 +338,7 @@ style navigation_button:
 
 style navigation_button_text:
     properties gui.text_properties("navigation_button")
+    selected_color "#d79c85"
     xalign 0.5
 
 
